@@ -17,3 +17,5 @@ Customers profile and demographics? </br>
 Analyze the data to provide insights demographics of the Customers such as the Age groups, Gender and location. </br>
 Top Hotels by Booking and Rating? </br>
 Analyze the data to provide insights on most preferred hotel by Customers and Hotels with high user rating.
+
+<img src="https://github.com/Ahmednas211/Hotel-Booking-Analysis/blob/main/SharedScreenshot%201.jpg?raw=true" alt="Dashboard">
